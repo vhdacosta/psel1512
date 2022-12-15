@@ -91,6 +91,8 @@ def main():
   xml = soup.prettify()
   with open("output.xml", "w") as file:
     file.write(xml)
+  
+  print(f"\nXML File updated:\n{xml}")
 
 if __name__ == "__main__":
   main()
