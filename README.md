@@ -1,5 +1,5 @@
 # psel1512
-Processo Seletivo de Feed Manager
+Resolução de Case de Processo Seletivo para vaga de Feed Manager
 
 Data: 15/12/2022
 
